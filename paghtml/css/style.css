@@ -24,16 +24,4 @@ div{
     align-items: center;
     justify-content: center;
     min-height: 10vh;
-<<<<<<< diseño_v2
 }
-
-ul li:hover a {
-  background:blue;
-}
-
-#img a:hover {
-    background: rgb(4, 39, 235);
-}
-=======
-}
->>>>>>> master
